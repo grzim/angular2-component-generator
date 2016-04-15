@@ -1,0 +1,8 @@
+@import '--index-scss-path--';
+$modulePath: '--full-module-path--/';
+$assetsPath: 'app/assets/';
+$moduleName: 'moduleName';
+
+.--name-dashed--{
+
+}
